@@ -14,7 +14,7 @@ app.use(cors());
 
 app.use('/posts', postRoutes);
 
-const CONNECTION_URL = 'mongodb+srv://admin:admin@cluster1.4y8vp.mongodb.net/memo_db?retryWrites=true&w=majority';
+const CONNECTION_URL = 'your_mongodb_url';
 const PORT = process.env.PORT|| 5000;
 
 mongoose.connect(CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
