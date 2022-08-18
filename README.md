@@ -1,1 +1,1 @@
-A simple social media app that allows users to post interesting events that happened in their lives.
+A simple social media app that allows users to post interesting events that happened in their lives using MERN stack.
