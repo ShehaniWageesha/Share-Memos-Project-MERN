@@ -1,1 +1,1 @@
-A simple social media app that allows users to post interesting events that happened in their lives using MERN stack.
+A simple social media app that allows users to post interesting events that happened in their lives. This application implemented using MERN stack. This allows other users to like those uploaded memories of a particular user.
