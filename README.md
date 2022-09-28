@@ -8,7 +8,7 @@ A simple social media app that allows users to post interesting events that happ
 git clone https://github.com/ShehaniWageesha/Share-Memos-Project-MERN.git
 ```
 
-* Run these commands for both client and server side to start the app
+* Run these commands for both backend and frontend to start the app
 
 ```sh
 npm install
